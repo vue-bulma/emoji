@@ -19,5 +19,8 @@
     "emoji"
   ],
   "author": "Fangdun Cai <cfddream@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "emojione": "2.2.6"
+  }
 }
