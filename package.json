@@ -1,0 +1,23 @@
+{
+  "name": "vue-bulma-emoji",
+  "version": "0.0.0",
+  "description": "Emoji component is based on emojione.com for Vue Bulma",
+  "main": "src/index.js",
+  "peerDependencies": {
+    "bulma": "^0.1.0",
+    "vue": "^1.0.26"
+  },
+  "scripts": {},
+  "repository": "git+https://github.com/vue-bulma/emoji.git",
+  "keywords": [
+    "vue",
+    "bulma",
+    "vue-bulma",
+    "vue-bulma-component",
+    "vue-bulma-emoji",
+    "emojione",
+    "emoji"
+  ],
+  "author": "Fangdun Cai <cfddream@gmail.com>",
+  "license": "MIT"
+}
