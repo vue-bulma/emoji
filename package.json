@@ -1,6 +1,6 @@
 {
   "name": "vue-bulma-emoji",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Emoji component is based on emojione.com for Vue Bulma",
   "main": "src/index.js",
   "peerDependencies": {
